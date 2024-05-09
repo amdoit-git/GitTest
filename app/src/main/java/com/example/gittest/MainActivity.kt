@@ -12,8 +12,8 @@ class MainActivity : AppCompatActivity() {
 
         setContentView(R.layout.activity_main)
 
-        //Первый коммит
-        //Второй коммит
-
+        //Первый коммит 2
+        //Второй коммит 2
+        //Третий коммит 2
     }
 }
